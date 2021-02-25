@@ -4,13 +4,13 @@
 ## Soy Abraham Suarez.
 
 
-+ - Estudiante del instituto tecnológico de Tijuana.
++ - Estudiante del Instituto Tecnológico de Tijuana.
 + - Actualmente en octavo semestre.
 + - Estudiando la carrera de sistemas computacionales.
 + - Me gustan los E-sports y los deportes tambien.
 + - Cursando la materia de Lenguajes de Intefaz.
 + 
-![](https://www.relyonhorror.com/wp-content/uploads/2011/02/Marker.png)
+![](https://www.tijuana.tecnm.mx/wp-content/uploads/2014/11/Heading-Ing-sistemas-768x252.png)
 
 
 <!--
