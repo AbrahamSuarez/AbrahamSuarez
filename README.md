@@ -23,6 +23,8 @@
 | 17:00 | Redes de Computadoras   | Redes de Computadoras   | Redes de Computadoras   | Redes de Computadoras   | Redes de Computadoras  |
 | 18:00 | Lenguajes y Autóm. II   | Lenguajes y Autóm. II   | Lenguajes y Autóm. II   | Lenguajes y Autóm. II   | Lenguajes y Autóm. II  |
 | 19:00 | Taller de Inv. II       | Taller de Inv. II       | Taller de Inv. II       | Taller de Inv. II       |                        |
+
+
 ![](https://www.tijuana.tecnm.mx/wp-content/uploads/2014/11/Heading-Ing-sistemas-768x252.png)
 
 
